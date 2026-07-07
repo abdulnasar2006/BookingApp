@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce & Booking Platform",
+  "description": "A comprehensive booking and e-commerce platform with a dynamic product catalog, cart, checkout, booking manager, admin dashboard, order tracking, and user auth powered by Express and MongoDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
